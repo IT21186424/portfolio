@@ -185,7 +185,7 @@ const educationInfo = {
     },
     {
       schoolName: "Sri Lanka Institute of Information Technology (SLIIT)",
-      logo: require("./assets/images/sliit.jpg"),
+      
       subHeader: "BSc (Hons) in Information Technology",
       duration: "September 2021 - Present",
       desc: "Main Focus Areas",
