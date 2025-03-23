@@ -168,7 +168,7 @@ const educationInfo = {
       schoolName: "Orubandisiyambalawa School Polonnaruwa ",
       logo: require("./assets/images/royalcollage.png"),
       subHeader: "GCE Ordinary Level (O/L)",
-      duration: "januery 2004 - Octomber 2015",
+      duration: "january 2004 - Octomber 2015",
       
     },
     {
