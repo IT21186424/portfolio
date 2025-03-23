@@ -273,8 +273,8 @@ const bigProjects = {
   subtitle: "Systems and Infrastructure I've Designed, Deployed, or Supported as a System Engineer",
   projects: [
     {
-      image: require("./assets/images/"),
-      projectName: "Saayahealth",
+      image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
