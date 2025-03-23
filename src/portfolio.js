@@ -185,8 +185,7 @@ const educationInfo = {
     },
     {
       schoolName: "Sri Lanka Institute of Information Technology (SLIIT)",
-      logo: require("./assets/images/"),
-
+      logo: require("./assets/images/sliit.png"),
       subHeader: "BSc (Hons) in Information Technology",
       duration: "September 2021 - Present",
       desc: "Main Focus Areas",
@@ -255,6 +254,7 @@ const workExperiences = {
     },
     
     
+    
   ]
 };
 
@@ -270,10 +270,10 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Systems and Infrastructure I've Designed, Deployed, or Supported as a System Engineer",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/"),
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
