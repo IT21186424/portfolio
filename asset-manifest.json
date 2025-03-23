@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.9c9afc7d.css",
-    "main.js": "/static/js/main.b8e34b12.js",
+    "main.js": "/static/js/main.b6fde5b1.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/profile.gif": "/static/media/profile.2a17c7ee38af7cc173f8.gif",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/royalcollage.png": "/static/media/royalcollage.48c157150ced545be8f3.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -14,7 +15,6 @@
     "static/media/CCNA_2.png": "/static/media/CCNA_2.2ed8af5e44a0322f77fa.png",
     "static/media/fortinet_2.png": "/static/media/fortinet_2.2fbe3b24b2501303d8e2.png",
     "static/media/fortinet_1.png": "/static/media/fortinet_1.459298d7041b2e0e21a5.png",
-    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/CCNA_1.png": "/static/media/CCNA_1.1b9eac74c7dc14a6ed97.png",
     "static/media/VMSP_2.png": "/static/media/VMSP_2.960173a1c868c87fadec.png",
     "static/media/AWS_1.png": "/static/media/AWS_1.32c71947ba4e9c94d112.png",
@@ -30,7 +30,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
-    "main.b8e34b12.js.map": "/static/js/main.b8e34b12.js.map",
+    "main.b6fde5b1.js.map": "/static/js/main.b6fde5b1.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.9c9afc7d.css",
-    "static/js/main.b8e34b12.js"
+    "static/js/main.b6fde5b1.js"
   ]
 }
