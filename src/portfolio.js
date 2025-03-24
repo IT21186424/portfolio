@@ -287,7 +287,7 @@ const bigProjects = {
     },
 
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/Synergy1.jpg"),
       projectName: "Nextu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
