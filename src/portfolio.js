@@ -273,7 +273,7 @@ const bigProjects = {
   subtitle: "Systems and Infrastructure I have Designed, Deployed, or Supported as a System Engineer ",
   projects: [
     {
-      image: require("./assets/images/Adani.png"),
+      image: require("./assets/images/Synergy1.jpg"),
       
       projectName: "HPE Synergy Installation and Deployment at Colombo West international",
       projectDesc: "Successfully installed and deployed six HPE Synergy chassis across the Production and DR sites at Colombo West International. This upgrade enhances infrastructure agility, scalability, and efficiency through HPE’s composable infrastructure solution.",
@@ -293,7 +293,7 @@ const bigProjects = {
       // footerLink: [
       //   {
       //     name: "Visit Website",
-      //     url: "http://nextu.se/"
+      //     url: "http://nextu.se/"  
       //   }
       // ]
     }
