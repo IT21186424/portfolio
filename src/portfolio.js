@@ -277,51 +277,51 @@ const bigProjects = {
       
       projectName: "HPE Synergy Installation and Deployment at Colombo West international",
       projectDesc: "Successfully installed and deployed six HPE Synergy chassis across the Production and DR sites at Colombo West International. This upgrade enhances infrastructure agility, scalability, and efficiency through HPE’s composable infrastructure solution.",
-      // footerLink: [
-      //   {
-      //     name: "Visit Website",
-      //     url: "http://saayahealth.com/"
-      //   }
-      //   //  you can add extra buttons here.
-      // ]
+      footerLink: [
+        {
+          name: "Read More",
+          url: ""
+        }
+        //  you can add extra buttons here.
+      ]
     },
 
     {
       image: require("./assets/images/people.jpg"),
       projectName: "People's Bank EFT Switch Referesh_SD Flex and Alletra 9000",
       projectDesc: "The People's Bank EFT (Electronic Fund Transfer) Switch Refresh project involved upgrading the core transaction processing infrastructure to enhance performance, scalability, and high availability for banking operations.",
-      // footerLink: [
-      //   {
-      //     name: "Visit Website",
-      //     url: "http://nextu.se/"  
-      //   }
-      // ]
+      footerLink: [
+        {
+          name: "Read More",
+          url: ""  
+        }
+      ]
     },
     {
       image: require("./assets/images/navy.jpg"),
       
       projectName: "Complete Server Vertualization- SL Navy",
       projectDesc: "Executed a full server virtualization project for the Sri Lanka Navy, consolidating physical servers into a centralized virtual environment. This upgrade improved resource utilization, simplified management, and enhanced system scalability and disaster recovery capabilities.",
-      // footerLink: [
-      //   {
-      //     name: "Visit Website",
-      //     url: "http://saayahealth.com/"
-      //   }
-      //   //  you can add extra buttons here.
-      // ]
+      footerLink: [
+        {
+          name: "Read More",
+          url: ""
+        }
+        //  you can add extra buttons here.
+      ]
     },
     {
       image: require("./assets/images/Synergy1.jpg"),
       
-      projectName: "HPE Synergy Installation and Deployment at Colombo West international",
-      projectDesc: "Successfully installed and deployed six HPE Synergy chassis across the Production and DR sites at Colombo West International. This upgrade enhances infrastructure agility, scalability, and efficiency through HPE’s composable infrastructure solution.",
-      // footerLink: [
-      //   {
-      //     name: "Visit Website",
-      //     url: "http://saayahealth.com/"
-      //   }
-      //   //  you can add extra buttons here.
-      // ]
+      projectName: "HPE Synergy First Frame Startup – Sampath Bank PLC",
+      projectDesc: "Successfully performed the first frame startup and configuration of HPE Synergy infrastructure at Sampath Bank PLC. This deployment enabled a modern composable environment, laying the foundation for scalable, software-defined IT operations within the bank's data center.",
+      footerLink: [
+        {
+          name: "Read More",
+          url: ""
+        }
+        //  you can add extra buttons here.
+      ]
     },
   ],
   display: true // Set false to hide this section, defaults to true
@@ -341,7 +341,7 @@ const achievementSection = {
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
       image: require("./assets/images/CCNA_1.png"),
-      imageAlt: "Google Code-In Logo",
+      imageAlt: "Introduction to Networks",
       footerLink: [
         {
           name: "Certification",
@@ -355,7 +355,7 @@ const achievementSection = {
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/CCNA_2.png"),
-      imageAlt: "Google Assistant Action Logo",
+      imageAlt: "Switching, Routing, and Wireless Essentials",
       footerLink: [
         {
           name: "Certification",
@@ -369,7 +369,7 @@ const achievementSection = {
       title: " Enterprise Networking, Security, and Automation",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/CCNA_3.png"),
-      imageAlt: "PWA Logo",
+      imageAlt: "Enterprise Networking, Security, and Automation",
       footerLink: [
         {
           name: "Certification",
@@ -382,7 +382,7 @@ const achievementSection = {
       title: " Introduction to Cybersecurity",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/I2CS__1_.png"),
-      imageAlt: "PWA Logo",
+      imageAlt: " Introduction to Cybersecurity",
       footerLink: [
         {
           name: "Certification",
@@ -391,110 +391,110 @@ const achievementSection = {
         
       ]
     },
-    {
-      title: " Enterprise Networking, Security, and Automation",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/CCNA_3.png"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: ""
-        },
+    // {
+    //   title: "Enterprise Networking, Security, and Automation",
+    //   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+    //   image: require("./assets/images/CCNA_3.png"),
+    //   imageAlt: "Enterprise Networking, Security, and Automation",
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: ""
+    //     },
         
-      ]
-    },
-    {
-      title: " Enterprise Networking, Security, and Automation",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/CCNA_3.png"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: ""
-        },
+    //   ]
+    // },
+    // {
+    //   title: "Enterprise Networking, Security, and Automation",
+    //   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+    //   image: require("./assets/images/CCNA_3.png"),
+    //   imageAlt: "Enterprise Networking, Security, and Automation",
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: ""
+    //     },
         
-      ]
-    },
-    {
-      title: " Fortinet Certified Associate Cybersecurity",
-      subtitle: "Completed Fortinet Certified Fundamentals (FCF) in Cybersecurity certification from Fortinet",
-      image: require("./assets/images/fortinet_1.png"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
-        },
+    //   ]
+    // },
+    // {
+    //   title: " Fortinet Certified Associate Cybersecurity",
+    //   subtitle: "Completed Fortinet Certified Fundamentals (FCF) in Cybersecurity certification from Fortinet",
+    //   image: require("./assets/images/fortinet_1.png"),
+    //   imageAlt: "Fortinet Certified Associate Cybersecurity",
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
+    //     },
         
-      ]
-    },
-    {
-      title: "Fortinet Certified Fundamentals Cybersecurity",
-      subtitle: "Completed Fortinet Certified Fundamentals (FCF) in Cybersecurity certification from Fortinet",
-      image: require("./assets/images/fortinet_2.png"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
-        },
+    //   ]
+    // },
+    // {
+    //   title: "Fortinet Certified Fundamentals Cybersecurity",
+    //   subtitle: "Completed Fortinet Certified Fundamentals (FCF) in Cybersecurity certification from Fortinet",
+    //   image: require("./assets/images/fortinet_2.png"),
+    //   imageAlt: "Fortinet Certified Fundamentals Cybersecurity",
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
+    //     },
         
-      ]
-    },
-    {
-      title: "AWS Academy Cloud Foundations",
-      subtitle: "Completed Fortinet Certified Fundamentals (FCF) in Cybersecurity certification from Fortinet",
-      image: require("./assets/images/AWS_1.png"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
-        },
+    //   ]
+    // },
+    // {
+    //   title: "AWS Academy Cloud Foundations",
+    //   subtitle: "Completed Fortinet Certified Fundamentals (FCF) in Cybersecurity certification from Fortinet",
+    //   image: require("./assets/images/AWS_1.png"),
+    //   imageAlt: "AWS Academy Cloud Foundations",
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
+    //     },
         
-      ]
-    },
-    {
-      title: "VMSP SaaS Protection",
-      subtitle: "Validates knowledge in securing SaaS applications using Veeam solutions, focusing on backup, recovery, and data protection best practices.",
-      image: require("./assets/images/VMSP_1.png"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
-        },
+    //   ]
+    // },
+    // {
+    //   title: "VMSP SaaS Protection",
+    //   subtitle: "Validates knowledge in securing SaaS applications using Veeam solutions, focusing on backup, recovery, and data protection best practices.",
+    //   image: require("./assets/images/VMSP_1.png"),
+    //   imageAlt: "VMSP SaaS Protection",
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
+    //     },
         
-      ]
-    },
-    {
-      title: "VMSP Cloud Service Provider",
-      subtitle: " validates expertise in delivering and managing Veeam-powered cloud services, including backup, disaster recovery, and data protection.",
-      image: require("./assets/images/VMSP_2.png"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
-        },
+    //   ]
+    // },
+    // {
+    //   title: "VMSP Cloud Service Provider",
+    //   subtitle: " validates expertise in delivering and managing Veeam-powered cloud services, including backup, disaster recovery, and data protection.",
+    //   image: require("./assets/images/VMSP_2.png"),
+    //   imageAlt: "VMSP Cloud Service Provider",
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
+    //     },
         
-      ]
-    },
-    {
-      title: "VMSP Cybersecurity & DR",
-      subtitle: "Validates skills in implementing cybersecurity measures and disaster recovery solutions using Veeam technologies.",
-      image: require("./assets/images/VMSP_3.png"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
-        },
+    //   ]
+    // },
+    // {
+    //   title: "VMSP Cybersecurity & DR",
+    //   subtitle: "Validates skills in implementing cybersecurity measures and disaster recovery solutions using Veeam technologies.",
+    //   image: require("./assets/images/VMSP_3.png"),
+    //   imageAlt: "VMSP Cybersecurity & DR",
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://www.credly.com/earner/earned/badge/78132be8-2f84-4551-9029-a1eb9b759d4a"
+    //     },
         
-      ]
-    },
+    //   ]
+    // },
 
   ],
   display: true // Set false to hide this section, defaults to true
