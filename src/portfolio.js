@@ -275,8 +275,8 @@ const bigProjects = {
     {
       images: [
         require("./assets/images/Adani.png"),
-        require("./assets/images/Synergy2.png"),
-        require("./assets/images/VeeamProject.png")
+        require("./assets/images/Adani.png"),
+        require("./assets/images/Adani.png")
       ],
       projectName: "HPE Synergy Installation and Deployment at Colombo West international",
       projectDesc: "Successfully installed and deployed six HPE Synergy chassis across the Production and DR sites at Colombo West International. This upgrade enhances infrastructure agility, scalability, and efficiency through HPE’s composable infrastructure solution.",
