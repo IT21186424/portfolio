@@ -246,10 +246,10 @@ const workExperiences = {
       date: "Sep 2023 - Present",
       desc: <span style={{ color: "#00bfff", fontWeight: "bold" }}>Plexus Global (Pvt) Ltd</span>,
       descBullets: [
-        "Server and Server Syetems",
-        "Backup Solution",
-        "Networking",
-        "Software"
+        "🖥️ Server and Server Systems-Experienced in deploying and managing HPE ProLiant and HPE Synergy servers across production and DR environments. Skilled in virtualization, composable infrastructure, and server monitoring to ensure high availability and performance",
+        "🔄 Backup Solutions-Specialized in implementing backup and disaster recovery using Veeam Backup & Replication. Familiar with Acronis, Windows Server Backup, and cloud-based solutions like Azure Backup for data protection and business continuity.",
+        "🌐 NetworkingHands-on experience with Aruba switches, VLAN configuration, trunking, and network troubleshooting. Strong understanding of LAN/WAN setups, static and dynamic routing, and securing enterprise networks",
+        "💻Software Development-Proficient in developing modern web and mobile applications using React, React Native, and Android (Java/Kotlin). Capable of creating responsive UIs, API integrations, and deploying full-stack solutions."
       ]
     },
     
@@ -274,9 +274,8 @@ const bigProjects = {
   projects: [
     {
       images: [
-        require("./assets/images/Adani.png"),
-        require("./assets/images/Adani.png"),
-        require("./assets/images/Adani.png")
+        require("./assets/images/Synergy.jpg"),
+        
       ],
       projectName: "HPE Synergy Installation and Deployment at Colombo West international",
       projectDesc: "Successfully installed and deployed six HPE Synergy chassis across the Production and DR sites at Colombo West International. This upgrade enhances infrastructure agility, scalability, and efficiency through HPE’s composable infrastructure solution.",
