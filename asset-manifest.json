@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6e6532dc.css",
-    "main.js": "/static/js/main.cefd7b78.js",
+    "main.js": "/static/js/main.eb6bcf48.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -16,6 +16,7 @@
     "static/media/CCNA_3.png": "/static/media/CCNA_3.4acb8323d562155f4151.png",
     "static/media/I2CS__1_.png": "/static/media/I2CS__1_.9dff7debcb41b7242f79.png",
     "static/media/CCNA_2.png": "/static/media/CCNA_2.2ed8af5e44a0322f77fa.png",
+    "static/media/fortinet_1.png": "/static/media/fortinet_1.459298d7041b2e0e21a5.png",
     "static/media/CCNA_1.png": "/static/media/CCNA_1.1b9eac74c7dc14a6ed97.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
@@ -25,7 +26,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.6e6532dc.css.map": "/static/css/main.6e6532dc.css.map",
-    "main.cefd7b78.js.map": "/static/js/main.cefd7b78.js.map",
+    "main.eb6bcf48.js.map": "/static/js/main.eb6bcf48.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -33,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.6e6532dc.css",
-    "static/js/main.cefd7b78.js"
+    "static/js/main.eb6bcf48.js"
   ]
 }
