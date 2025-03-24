@@ -300,8 +300,8 @@ const bigProjects = {
     {
       image: require("./assets/images/Synergy1.jpg"),
       
-      projectName: "HPE Synergy Installation and Deployment at Colombo West international",
-      projectDesc: "Successfully installed and deployed six HPE Synergy chassis across the Production and DR sites at Colombo West International. This upgrade enhances infrastructure agility, scalability, and efficiency through HPE’s composable infrastructure solution.",
+      projectName: "Complete Server Vertualization- SL Navy",
+      projectDesc: "Executed a full server virtualization project for the Sri Lanka Navy, consolidating physical servers into a centralized virtual environment. This upgrade improved resource utilization, simplified management, and enhanced system scalability and disaster recovery capabilities.",
       // footerLink: [
       //   {
       //     name: "Visit Website",
