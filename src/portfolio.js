@@ -287,9 +287,9 @@ const bigProjects = {
     },
 
     {
-      image: require("./assets/images/Synergy1.jpg"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/people.jpg"),
+      projectName: "People's Bank EFT Switch Referesh_SD Flex and Alletra 9000",
+      projectDesc: "The People's Bank EFT (Electronic Fund Transfer) Switch Refresh project involved upgrading the core transaction processing infrastructure to enhance performance, scalability, and high availability for banking operations.",
       // footerLink: [
       //   {
       //     name: "Visit Website",
