@@ -298,7 +298,7 @@ const bigProjects = {
       // ]
     },
     {
-      image: require("./assets/images/Synergy1.jpg"),
+      image: require("./assets/images/navy.jpg"),
       
       projectName: "Complete Server Vertualization- SL Navy",
       projectDesc: "Executed a full server virtualization project for the Sri Lanka Navy, consolidating physical servers into a centralized virtual environment. This upgrade improved resource utilization, simplified management, and enhanced system scalability and disaster recovery capabilities.",
@@ -586,18 +586,8 @@ const talkSection = {
       slides_url: "https://example.com/hpe-talk-slides", // Replace with actual link if available
       event_url: "https://example.com/event" // Optional: Facebook, Eventbrite, LinkedIn event page
     },
-    {
-      title: "Enterprise Backup Strategies with Veeam",
-      subtitle: "Internal Tech Talk – Plexuss Global, 2023",
-      slides_url: "https://example.com/veeam-talk-slides",
-      event_url: ""
-    },
-    {
-      title: "Server Virtualization and Disaster Recovery for Critical Environments",
-      subtitle: "Tech Session – Sri Lanka Navy HQ, 2023",
-      slides_url: "",
-      event_url: ""
-    }
+    
+    
   ],
 
   display: true // Set false to hide this section
