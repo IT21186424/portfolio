@@ -296,7 +296,33 @@ const bigProjects = {
       //     url: "http://nextu.se/"  
       //   }
       // ]
-    }
+    },
+    {
+      image: require("./assets/images/Synergy1.jpg"),
+      
+      projectName: "HPE Synergy Installation and Deployment at Colombo West international",
+      projectDesc: "Successfully installed and deployed six HPE Synergy chassis across the Production and DR sites at Colombo West International. This upgrade enhances infrastructure agility, scalability, and efficiency through HPE’s composable infrastructure solution.",
+      // footerLink: [
+      //   {
+      //     name: "Visit Website",
+      //     url: "http://saayahealth.com/"
+      //   }
+      //   //  you can add extra buttons here.
+      // ]
+    },
+    {
+      image: require("./assets/images/Synergy1.jpg"),
+      
+      projectName: "HPE Synergy Installation and Deployment at Colombo West international",
+      projectDesc: "Successfully installed and deployed six HPE Synergy chassis across the Production and DR sites at Colombo West International. This upgrade enhances infrastructure agility, scalability, and efficiency through HPE’s composable infrastructure solution.",
+      // footerLink: [
+      //   {
+      //     name: "Visit Website",
+      //     url: "http://saayahealth.com/"
+      //   }
+      //   //  you can add extra buttons here.
+      // ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
