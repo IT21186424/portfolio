@@ -576,21 +576,33 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: "TALKS",
-  subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
-  ),
+  title: "Tech Talks",
+  subtitle: "Sharing knowledge through real-world experiences and enterprise infrastructure sessions.",
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      title: "Modern Infrastructure with HPE Synergy & Alletra",
+      subtitle: "Speaker at Enterprise Tech Meetup – Colombo, 2024",
+      slides_url: "https://example.com/hpe-talk-slides", // Replace with actual link if available
+      event_url: "https://example.com/event" // Optional: Facebook, Eventbrite, LinkedIn event page
+    },
+    {
+      title: "Enterprise Backup Strategies with Veeam",
+      subtitle: "Internal Tech Talk – Plexuss Global, 2023",
+      slides_url: "https://example.com/veeam-talk-slides",
+      event_url: ""
+    },
+    {
+      title: "Server Virtualization and Disaster Recovery for Critical Environments",
+      subtitle: "Tech Session – Sri Lanka Navy HQ, 2023",
+      slides_url: "",
+      event_url: ""
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+
+  display: true // Set false to hide this section
 };
+
 
 // Podcast Section
 
