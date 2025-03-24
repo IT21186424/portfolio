@@ -274,7 +274,7 @@ const bigProjects = {
   projects: [
     {
       images: [
-        require("./assets/images/Synergy.jpg"),
+        require("./assets/images/Adani.png"),
         
       ],
       projectName: "HPE Synergy Installation and Deployment at Colombo West international",
